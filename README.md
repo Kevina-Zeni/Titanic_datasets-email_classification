@@ -6,10 +6,10 @@ This repository contains two python notebooks utilizing the machine learning alg
 * *Dataset 2*: Spambase Dataset: https://archive.ics.uci.edu/ml/datasets/Spambase
 Using the algorithms specified above, we try to predict the likelihood of occurence of the target variable {survived : spam}
 
-# Libraries used
+# *Libraries used*
 Python : scikit learn, seaborn and matplot lib for visualizations,numpy and pandas
 
-# Algorthims
+# *Algorithms*
 K-Nearest Neighbors
 Naive Bayes
 Support Vector Machines
